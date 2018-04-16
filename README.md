@@ -1,4 +1,4 @@
-# react-algolia-places
+# react-algolia-placesExtended
 
 A simple but powerful React.js wrapper around fantastic Algolia's place !
 
@@ -7,13 +7,13 @@ A simple but powerful React.js wrapper around fantastic Algolia's place !
 Install the package by using **npm**
 
 ```bash
-    npm install -S react-algolia-places
+    npm install -S react-algolia-placesExtended
 ```
 
 Or use **yarn**
 
 ```bash
-    yarn add react-algolia-places
+    yarn add react-algolia-placesExtended
 ```
 
 Then import the package
@@ -22,7 +22,7 @@ Then import the package
     import React, {Component} from 'react'
     import ReactDOM from 'react-dom'
 
-    import Place from 'react-algolia-places'
+    import Place from 'react-algolia-placesExtended'
 
     ReactDOM.render(<Place />, document.getElementById('app'))
 

@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/csauvage/react-algolia-places.git"
+    "url": "git+https://github.com/rafaelfernandezgis/react-algolia-placesExtended.git"
   },
   "keywords": [
     "Algolia",
@@ -30,12 +30,12 @@
     "Addresses",
     "POI"
   ],
-  "author": "Clément Sauvage <hello+npm@clementsauvage.me> (https://clementsauvage.me)",
+  "author": "Rafael Fernández <rf@urbandataanalytics.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/csauvage/react-algolia-places/issues"
+    "url": "https://github.com/rafaelfernandezgis/react-algolia-placesExtended/issues"
   },
-  "homepage": "https://github.com/csauvage/react-algolia-places#readme",
+  "homepage": "https://github.com/rafaelfernandezgis/react-algolia-placesExtended#readme",
   "dependencies": {
     "places.js": "1.x",
     "react": "15.x",
