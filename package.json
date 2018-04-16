@@ -1,6 +1,6 @@
 {
-  "name": "react-algolia-places",
-  "version": "0.1.1",
+  "name": "react-algolia-placesExtended",
+  "version": "0.1.0",
   "description": "A simple but powerful React.js wrapper around fantastic Algolia's place !",
   "main": "build/index.js",
   "scripts": {
